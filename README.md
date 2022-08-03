@@ -1,1 +1,3 @@
-# Multicampus_Bigdata_Analysis
+# 서비스 산업 데이터를 활용한 빅데이터 분석
+- 멀티캠퍼스에서 진행하는 국비지원프로그램입니다.
+- 파이썬을 기반으로 Colab과 jupyterlab에서 실습을 진행합니다.
